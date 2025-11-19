@@ -1,3 +1,3 @@
 void main() {
-  print("Hello World, this is my first use of Github!");
+  print("Github!");
 }
